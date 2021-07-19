@@ -27,6 +27,9 @@ ipch
 *.VC.VC.opendb
 bin
 bin-int
+.vs/
+*.sln
+*.vcxproj*
 
 ## Commonly used CMake directories
 /build*/
